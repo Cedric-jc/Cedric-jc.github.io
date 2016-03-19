@@ -4,9 +4,9 @@
   <subtitle>Fantastic</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://jc-y.xyz/"/>
   <updated>2016-03-15T12:37:46.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://jc-y.xyz/</id>
   
   <author>
     <name>Cedric</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/03/15/hello-world/"/>
-    <id>http://yoursite.com/2016/03/15/hello-world/</id>
+    <link href="http://jc-y.xyz/2016/03/15/hello-world/"/>
+    <id>http://jc-y.xyz/2016/03/15/hello-world/</id>
     <published>2016-03-15T12:37:46.000Z</published>
     <updated>2016-03-15T12:37:46.000Z</updated>
     
